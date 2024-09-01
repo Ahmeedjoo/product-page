@@ -1,0 +1,58 @@
+export const data = [
+    {
+        img: require('../assets/img1.webp'),
+        title: 'Ted Lasso`s Favorite Pub',
+        disc: 'Greater London, United Kingdom',
+        review: '5.0',
+        price: '2000$',
+    },
+    {
+        img: require('../assets/img2.webp'),
+        title: 'Houseplant Retreat',
+        disc: 'Los Angeles, California, United States',
+        review: '4.75',
+        price: '1200$',
+    },
+    {
+        img: require('../assets/img3.jpeg'),
+        title: 'Home Alone Holiday',
+        disc: 'Winnetka, Illinois, United States',
+        review: '4.95',
+        price: '1800$',
+    },
+    {
+        img: require('../assets/img4.webp'),
+        title: 'Crash at the X-Mansion',
+        disc: 'New Castle, New York, United States',
+        review: '5.0',
+        price: '2500$',
+    },
+    {
+        img: require('../assets/img1.webp'),
+        title: 'Ted Lasso`s Favorite Pub',
+        disc: 'Greater London, United Kingdom',
+        review: '5.0',
+        price: '2000$',
+    },
+    {
+        img: require('../assets/img2.webp'),
+        title: 'Houseplant Retreat',
+        disc: 'Los Angeles, California, United States',
+        review: '4.75',
+        price: '1200$',
+    },
+    {
+        img: require('../assets/img3.jpeg'),
+        title: 'Home Alone Holiday',
+        disc: 'Winnetka, Illinois, United States',
+        review: '4.95',
+        price: '1800$',
+    },
+    {
+        img: require('../assets/img4.webp'),
+        title: 'Crash at the X-Mansion',
+        disc: 'New Castle, New York, United States',
+        review: '5.0',
+        price: '2500$',
+    },
+];
