@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/product-page/static/css/main.8532684e.css",
+    "main.js": "/product-page/static/js/main.5c4c551e.js",
+    "static/media/shose three.png": "/product-page/static/media/shose three.a9aee48f6add3c3152b9.png",
+    "static/media/shose two.png": "/product-page/static/media/shose two.2d7c2832fb6cf3ed8c29.png",
+    "static/media/shose four.png": "/product-page/static/media/shose four.eb9a004bc063d7e3a481.png",
+    "static/media/shose one.png": "/product-page/static/media/shose one.4e604550770502651098.png",
+    "index.html": "/product-page/index.html",
+    "main.8532684e.css.map": "/product-page/static/css/main.8532684e.css.map",
+    "main.5c4c551e.js.map": "/product-page/static/js/main.5c4c551e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8532684e.css",
+    "static/js/main.5c4c551e.js"
+  ]
+}
